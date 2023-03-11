@@ -1,4 +1,11 @@
 body{
-    background-color: blue;
     width: 80%;
+}
+
+.red_color{
+    background-color:red;
+}
+
+.blue_color{
+    background-color:blue;
 }
