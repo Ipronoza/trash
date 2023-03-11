@@ -23,6 +23,7 @@ body{
     0% {
         width: 100px;
         height: 100px;
+        background-color: black;
     }
     50%{
         width: 200px;
@@ -31,5 +32,6 @@ body{
     100%{
         width: 100px;
         height: 200px;
+        background-color: red;
     }
 }
